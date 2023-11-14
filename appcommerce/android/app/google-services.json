@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739240414638",
+    "project_id": "mapcommerce-b4330",
+    "storage_bucket": "mapcommerce-b4330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739240414638:android:4988bfc8dc0d2476f9cc3f",
+        "android_client_info": {
+          "package_name": "com.appcommerce.appcommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0c7ua9vrg6qn-5zo1iveeJ9bRwnB08NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739240414638:android:64649b6115765df5f9cc3f",
+        "android_client_info": {
+          "package_name": "com.appcommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0c7ua9vrg6qn-5zo1iveeJ9bRwnB08NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
